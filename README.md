@@ -3,7 +3,7 @@
 In order to mimic a keyframe dataset from videos which contain landmark information we merged images from two different sources: the ["Google Landmarks v2 dataset"](https://github.com/cvdfoundation/google-landmark) and the ["Vimeo Creative Commons Collection (V3C1)"](https://catalog.data.gov/dataset/vimeo-creative-commons-collection-v3c1) video dataset.These combined sources allowed us to create a dataset that contains sets of keyframes as they would be extracted from one video, containing both keyframes of a particular landmark as well as unrelated keyframes (noise).
 For each set of keyframes representing a video, we combined on average 30 associated images from the Google Landmarks v2 dataset with in average 11 keyframes (noise images) from one of the videos in the V3C1 dataset. This process has been done for 141 landmarks.
 
-In addition, we perform a targeted web search for relevant landmark training images. Recognizing that web data can introduce considerable noise, we filtered out some of the images by a algorithm which is described in []().
+In addition, we perform a targeted web search for relevant landmark training images.
 
 
 ## Organisation of the dataset
