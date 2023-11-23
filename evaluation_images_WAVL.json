@@ -1,0 +1,2785 @@
+{
+    "Pont du Gard": {
+        "google_v2_images": {
+            "landmark_id": "199507",
+            "image_files": [
+                "0\\a\\e\\0aee7cecd38251f4.jpg",
+                "0\\f\\b\\0fbc443f00facd4c.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00048\\00048.mp4",
+            "frame_positions": [
+                1250,
+                3750,
+                6250,
+                7500,
+                1875,
+                3125,
+                5625,
+                6875,
+                8125
+            ]
+        }
+    },
+    "National World War II Memorial": {
+        "google_v2_images": {
+            "landmark_id": "128234",
+            "image_files": [
+                "0\\9\\9\\099b58e282ddb764.jpg",
+                "1\\0\\9\\109cdf734ae0b90d.jpg",
+                "1\\6\\a\\16a0b3e8be465fc3.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00053\\00053.mp4",
+            "frame_positions": [
+                2000
+            ]
+        }
+    },
+    "Mount Rushmore National Memorial": {
+        "google_v2_images": {
+            "landmark_id": "43845",
+            "image_files": [
+                "0\\e\\7\\0e7490f169184a4c.jpg",
+                "0\\0\\9\\009910fb6fcaa8ab.jpg",
+                "0\\1\\e\\01e4678005e03020.jpg",
+                "0\\4\\4\\044cf9a1455dd2b0.jpg",
+                "0\\1\\9\\01904077f07bd7c4.jpg",
+                "0\\d\\4\\0d46618b33960777.jpg",
+                "0\\a\\e\\0aecb4dd324bf405.jpg",
+                "0\\8\\5\\0855bcdafebf7158.jpg",
+                "0\\2\\5\\025bfbd92cb47656.jpg",
+                "0\\8\\b\\08baaab573fec72f.jpg",
+                "0\\4\\7\\047223f8466ccd30.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00089\\00089.mp4",
+            "frame_positions": [
+                2375,
+                2000,
+                3125,
+                4250
+            ]
+        }
+    },
+    "Bigorski Monastery": {
+        "google_v2_images": {
+            "landmark_id": "29794",
+            "image_files": [
+                "0\\8\\2\\082d48b19673c2b9.jpg",
+                "0\\8\\3\\0831fd59a2da15bf.jpg",
+                "0\\2\\6\\026de30c651cbec3.jpg",
+                "0\\0\\0\\000fe4a932a11a71.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00093\\00093.mp4",
+            "frame_positions": [
+                1250,
+                3750,
+                2250,
+                4750,
+                1750,
+                4250,
+                2750
+            ]
+        }
+    },
+    "Catedral San Sebastián Cochabamba": {
+        "google_v2_images": {
+            "landmark_id": "20120",
+            "image_files": [
+                "0\\4\\4\\044cac2423aef027.jpg",
+                "0\\0\\c\\00c8bdfb40ebc623.jpg",
+                "0\\0\\0\\0007183b90b81db7.jpg",
+                "0\\5\\2\\052e5b6b4342c981.jpg",
+                "0\\2\\6\\026f14b98ab62fc3.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00100\\00100.mp4",
+            "frame_positions": [
+                3875,
+                3125
+            ]
+        }
+    },
+    "Horezu Monastery": {
+        "google_v2_images": {
+            "landmark_id": "21635",
+            "image_files": [
+                "0\\8\\1\\0819c52b1df613ab.jpg",
+                "0\\b\\f\\0bf2e76d7a851adc.jpg",
+                "0\\7\\9\\079360e63b42119d.jpg",
+                "0\\9\\4\\094c2742cc856366.jpg",
+                "0\\e\\0\\0e09393d55e26565.jpg"
+            ]
+        }
+    },
+    "Santa Maria Magdalena Parish Church of Magdalena": {
+        "google_v2_images": {
+            "landmark_id": "118353",
+            "image_files": [
+                "0\\0\\0\\0007fd4d1ba85f30.jpg",
+                "1\\2\\9\\12921d3c8125f9a8.jpg",
+                "0\\2\\3\\023e2a3e6734442e.jpg",
+                "0\\5\\0\\05055eb132257e71.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00188\\00188.mp4",
+            "frame_positions": [
+                1250,
+                3875,
+                2375,
+                3500,
+                3125,
+                2750
+            ]
+        }
+    },
+    "Saint John of God Church (San Rafael Bulacan)": {
+        "google_v2_images": {
+            "landmark_id": "21843",
+            "image_files": [
+                "0\\7\\2\\072a89efd07e3319.jpg",
+                "0\\9\\7\\097e5d9ddd31c4e3.jpg",
+                "0\\4\\9\\049e6671b40006f2.jpg",
+                "0\\6\\a\\06a9f31eb7607f62.jpg",
+                "0\\1\\a\\01a73a105dabf1b1.jpg",
+                "0\\0\\0\\000888d17dbbfd4c.jpg",
+                "0\\0\\3\\003162aebc7836f7.jpg",
+                "0\\2\\4\\0244130343ab5479.jpg",
+                "0\\b\\2\\0b2f22829982b8a6.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00268\\00268.mp4",
+            "frame_positions": [
+                1250
+            ]
+        }
+    },
+    "Soltaniyeh Dome": {
+        "google_v2_images": {
+            "landmark_id": "134316",
+            "image_files": [
+                "0\\1\\c\\01cfdf966e6539e2.jpg",
+                "0\\d\\7\\0d77db35fc02fe5e.jpg",
+                "1\\1\\5\\115dbc1a68b7a619.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00296\\00296.mp4",
+            "frame_positions": [
+                2250,
+                5750,
+                4250
+            ]
+        }
+    },
+    "Kecharis": {
+        "google_v2_images": {
+            "landmark_id": "36748",
+            "image_files": [
+                "0\\7\\e\\07e78f5614e44096.jpg",
+                "0\\7\\6\\076d7d7eeceb877e.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00323\\00323.mp4",
+            "frame_positions": [
+                8000,
+                1250,
+                6500,
+                5000,
+                3500,
+                8750,
+                7250
+            ]
+        }
+    },
+    "Khotyn Fortress": {
+        "google_v2_images": {
+            "landmark_id": "149980",
+            "image_files": [
+                "0\\1\\3\\013252d33ea75fb5.jpg",
+                "0\\2\\b\\02be9e7d8c53dbb4.jpg",
+                "0\\3\\c\\03cffd6ccd46d720.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00324\\00324.mp4",
+            "frame_positions": [
+                5250,
+                3750,
+                6250
+            ]
+        }
+    },
+    "Czocha Castle": {
+        "google_v2_images": {
+            "landmark_id": "62054",
+            "image_files": [
+                "1\\4\\7\\147fd90e1b8e6ff2.jpg",
+                "0\\c\\6\\0c6939c832bc7e9c.jpg",
+                "0\\f\\5\\0f52dca62875cfc5.jpg",
+                "1\\3\\7\\13773589c8b6403f.jpg",
+                "0\\9\\0\\09051ad24af8d718.jpg",
+                "0\\a\\b\\0ab9329ef1322fed.jpg",
+                "0\\5\\3\\05362696e7bb1855.jpg",
+                "0\\7\\2\\072d2d082324771c.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00333\\00333.mp4",
+            "frame_positions": [
+                1875,
+                5625
+            ]
+        }
+    },
+    "Chhatrapati Shivaji Terminus (formerly Victoria Terminus)": {
+        "google_v2_images": {
+            "landmark_id": "162569",
+            "image_files": [
+                "0\\2\\4\\02493cb84f104005.jpg",
+                "0\\0\\1\\0016bfef98050e01.jpg",
+                "0\\a\\c\\0ac32c7988ee411b.jpg",
+                "0\\5\\0\\050db368506720cc.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00338\\00338.mp4",
+            "frame_positions": [
+                30500,
+                20750,
+                35375,
+                50000,
+                25625,
+                54875
+            ]
+        }
+    },
+    "Moszna Castle": {
+        "google_v2_images": {
+            "landmark_id": "5401",
+            "image_files": [
+                "0\\d\\4\\0d4f7a43b4860957.jpg",
+                "0\\8\\a\\08af5891cbfbfd79.jpg",
+                "1\\1\\b\\11bb3583a6447c5b.jpg",
+                "0\\7\\e\\07eb6716def41f8f.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00341\\00341.mp4",
+            "frame_positions": [
+                3875,
+                2375,
+                3500,
+                2000,
+                2750
+            ]
+        }
+    },
+    "Church of the Intercession (Parkhomovka)": {
+        "google_v2_images": {
+            "landmark_id": "168879",
+            "image_files": [
+                "0\\a\\c\\0ac5152775b7d982.jpg",
+                "1\\1\\0\\1102017d42e2e1b9.jpg",
+                "0\\0\\0\\000dedc31cdd5c0d.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00346\\00346.mp4",
+            "frame_positions": [
+                13625,
+                9500
+            ]
+        }
+    },
+    "Conwy Castle": {
+        "google_v2_images": {
+            "landmark_id": "75930",
+            "image_files": [
+                "0\\9\\3\\0931da6ee25f1961.jpg",
+                "0\\7\\2\\072629040212e936.jpg",
+                "0\\8\\e\\08e2624808cd1d64.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00361\\00361.mp4",
+            "frame_positions": [
+                2375,
+                3500,
+                3125,
+                1625,
+                4250,
+                2750
+            ]
+        }
+    },
+    "Marmashen": {
+        "google_v2_images": {
+            "landmark_id": "80272",
+            "image_files": [
+                "0\\a\\f\\0af813e1e30d9f72.jpg",
+                "0\\9\\4\\094d7154e62da2d0.jpg",
+                "0\\a\\2\\0a2f1502e97effc5.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00380\\00380.mp4",
+            "frame_positions": [
+                11750,
+                22250,
+                27500,
+                38000,
+                43250,
+                53750
+            ]
+        }
+    },
+    "Charles Bridge": {
+        "google_v2_images": {
+            "landmark_id": "190956",
+            "image_files": [
+                "0\\d\\0\\0d03b3c4893c8aab.jpg",
+                "0\\b\\6\\0b62377e62042e55.jpg",
+                "0\\c\\b\\0cb98dd5f1573857.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00448\\00448.mp4",
+            "frame_positions": [
+                1250,
+                23750,
+                17000,
+                3500,
+                12500,
+                5750,
+                21500
+            ]
+        }
+    },
+    "Church of Our Lady in front of Týn": {
+        "google_v2_images": {
+            "landmark_id": "133454",
+            "image_files": [
+                "0\\4\\9\\049304a07b50fcdd.jpg",
+                "1\\3\\5\\135ed9dc8db68b55.jpg",
+                "1\\3\\a\\13a25e02c2fe2066.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00552\\00552.mp4",
+            "frame_positions": [
+                3750,
+                2250,
+                4250
+            ]
+        }
+    },
+    "Pillnitz Castle": {
+        "google_v2_images": {
+            "landmark_id": "61782",
+            "image_files": [
+                "1\\6\\4\\164a427f5502ee55.jpg",
+                "1\\6\\b\\16b7ca7a9b79debb.jpg",
+                "0\\e\\e\\0ee6c6e6a328fd50.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00575\\00575.mp4",
+            "frame_positions": [
+                21250,
+                3750,
+                23750,
+                18750
+            ]
+        }
+    },
+    "Fountains Abbey": {
+        "google_v2_images": {
+            "landmark_id": "14135",
+            "image_files": [
+                "0\\f\\2\\0f2e617677758e7c.jpg",
+                "0\\5\\6\\05683d25c2582fd8.jpg",
+                "1\\3\\e\\13e8c373252ab0a5.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00616\\00616.mp4",
+            "frame_positions": [
+                1250,
+                2500,
+                5000,
+                6250,
+                7500,
+                1875,
+                3125,
+                4375
+            ]
+        }
+    },
+    "Château de Chenonceau": {
+        "google_v2_images": {
+            "landmark_id": "454",
+            "image_files": [
+                "0\\e\\c\\0ec7b888c0ea7beb.jpg",
+                "0\\d\\b\\0dbc61fdbf3dd9a7.jpg",
+                "0\\f\\8\\0f8115391645577c.jpg",
+                "0\\0\\8\\008ecd81dc3ad4ed.jpg",
+                "0\\0\\2\\002b4bdd4ca53982.jpg",
+                "0\\8\\7\\0874a4c4db361245.jpg",
+                "1\\0\\f\\10f1d86a68bb5d87.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00619\\00619.mp4",
+            "frame_positions": [
+                2250,
+                3250,
+                2750
+            ]
+        }
+    },
+    "Abraham Lincoln seated at the Lincoln Memorial": {
+        "google_v2_images": {
+            "landmark_id": "47176",
+            "image_files": [
+                "1\\3\\e\\13efbf95d2f03dfc.jpg",
+                "0\\8\\1\\081a9d1a27368519.jpg",
+                "0\\4\\4\\044a628d8967e19c.jpg",
+                "0\\0\\1\\00176625eb6f8af7.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00697\\00697.mp4",
+            "frame_positions": [
+                2375,
+                4250
+            ]
+        }
+    },
+    "Ogrodzieniec Castle": {
+        "google_v2_images": {
+            "landmark_id": "109169",
+            "image_files": [
+                "0\\0\\f\\00fe926ad1d0ff80.jpg",
+                "0\\8\\0\\080895e5a07ceb79.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00772\\00772.mp4",
+            "frame_positions": [
+                4250
+            ]
+        }
+    },
+    "Arg of Karim Khan": {
+        "google_v2_images": {
+            "landmark_id": "39865",
+            "image_files": [
+                "0\\c\\5\\0c56cd20c395cb53.jpg",
+                "0\\7\\5\\075f7fa17dbbaca8.jpg",
+                "0\\3\\a\\03ab4b1f6caf4396.jpg",
+                "0\\2\\8\\02829b395b536fe4.jpg",
+                "0\\4\\9\\0493d6e745bdb33b.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00792\\00792.mp4",
+            "frame_positions": [
+                11750,
+                15250,
+                25750
+            ]
+        }
+    },
+    "Golden Gate Bridge": {
+        "google_v2_images": {
+            "landmark_id": "168098",
+            "image_files": [
+                "0\\1\\8\\018336339af07c92.jpg",
+                "0\\0\\d\\00d07d7fcb35525f.jpg",
+                "0\\0\\1\\0019a9bd5f496ab9.jpg",
+                "0\\4\\e\\04eac0ac1b3d6cd5.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00843\\00843.mp4",
+            "frame_positions": [
+                1250,
+                3875,
+                2375,
+                3500,
+                2000
+            ]
+        }
+    },
+    "Terminal Tower": {
+        "google_v2_images": {
+            "landmark_id": "70088",
+            "image_files": [
+                "0\\b\\7\\0b7b3e030eaeb28e.jpg",
+                "0\\d\\4\\0d449f73396af5ed.jpg",
+                "0\\c\\c\\0cc720d311bd0f26.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00850\\00850.mp4",
+            "frame_positions": [
+                2500,
+                3750,
+                1750,
+                3000,
+                2750
+            ]
+        }
+    },
+    "Brooklyn Bridge": {
+        "google_v2_images": {
+            "landmark_id": "163604",
+            "image_files": [
+                "0\\5\\4\\0541ef13488dd325.jpg",
+                "0\\e\\c\\0ec19ce5559ac1a4.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00891\\00891.mp4",
+            "frame_positions": [
+                3750,
+                1750,
+                2750
+            ]
+        }
+    },
+    "Haghpat": {
+        "google_v2_images": {
+            "landmark_id": "191292",
+            "image_files": [
+                "0\\6\\a\\06a49016361a3391.jpg",
+                "0\\6\\e\\06e42f168ce2639c.jpg",
+                "0\\6\\7\\067d124423eab3b1.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00907\\00907.mp4",
+            "frame_positions": [
+                1250,
+                11375,
+                12500,
+                13625,
+                6875
+            ]
+        }
+    },
+    "Saint Naum Monastery": {
+        "google_v2_images": {
+            "landmark_id": "24024",
+            "image_files": [
+                "0\\5\\3\\053ad854a5f09478.jpg",
+                "0\\1\\2\\0123f3ea9384603a.jpg",
+                "0\\9\\0\\09086f7b580729b0.jpg",
+                "1\\2\\9\\12953cdf314dddad.jpg",
+                "1\\3\\2\\132a9b94ec7c0b47.jpg",
+                "0\\3\\f\\03f8e4fdbb7c8c42.jpg",
+                "0\\f\\f\\0ff32add2f440afb.jpg",
+                "0\\a\\a\\0aa04d7ecdd8cf4f.jpg",
+                "0\\d\\d\\0dda39cb95776a3f.jpg",
+                "0\\8\\7\\087ba4737e76b2ab.jpg",
+                "0\\c\\1\\0c1ba4da479d3c55.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00920\\00920.mp4",
+            "frame_positions": [
+                3750,
+                4250
+            ]
+        }
+    },
+    "Anglesey Abbey": {
+        "google_v2_images": {
+            "landmark_id": "125194",
+            "image_files": [
+                "0\\c\\5\\0c5161a57d11b47f.jpg",
+                "0\\8\\8\\0881dfe4be5f4992.jpg",
+                "0\\9\\7\\097f45bc45f07899.jpg",
+                "0\\7\\6\\076420e5e00c9038.jpg",
+                "0\\e\\d\\0ed77bf402c89074.jpg",
+                "0\\e\\f\\0efa992011ea7dfa.jpg",
+                "1\\1\\3\\1138ab52d0c2255c.jpg",
+                "0\\e\\5\\0e5696da9309ea4f.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\00966\\00966.mp4",
+            "frame_positions": [
+                1250,
+                5250,
+                2250,
+                1750,
+                5750,
+                4250
+            ]
+        }
+    },
+    "Ghirlandina (Modena)": {
+        "google_v2_images": {
+            "landmark_id": "119615",
+            "image_files": [
+                "1\\8\\6\\1867fb28d9c62ed5.jpg",
+                "1\\1\\e\\11e433f8b27b1e75.jpg",
+                "0\\7\\c\\07c73fbfce7aaaf4.jpg",
+                "0\\7\\4\\0748e9791a22951a.jpg"
+            ]
+        }
+    },
+    "Oslo Opera house": {
+        "google_v2_images": {
+            "landmark_id": "103848",
+            "image_files": [
+                "1\\5\\5\\1556f7dc3946d914.jpg",
+                "0\\7\\c\\07c0b189b57d4c58.jpg",
+                "1\\2\\9\\129871c6ff13c518.jpg",
+                "0\\2\\b\\02bebf1a2ed2a191.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01047\\01047.mp4",
+            "frame_positions": [
+                8750
+            ]
+        }
+    },
+    "Caerphilly Castle": {
+        "google_v2_images": {
+            "landmark_id": "192349",
+            "image_files": [
+                "1\\6\\9\\169fa214143a4d9f.jpg",
+                "0\\0\\2\\0026aad8f6a5bf42.jpg",
+                "1\\7\\e\\17eb70f9a18e7ab2.jpg",
+                "1\\8\\2\\1821ffa7a2caeb22.jpg",
+                "0\\5\\7\\0576d07f3846053d.jpg",
+                "0\\9\\a\\09a23b625104fdd0.jpg",
+                "1\\9\\c\\19c0cb1e2aaf45ce.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01058\\01058.mp4",
+            "frame_positions": [
+                3875,
+                2375,
+                5000,
+                4625,
+                2750
+            ]
+        }
+    },
+    "Castel Sant'Angelo (Rome)": {
+        "google_v2_images": {
+            "landmark_id": "21613",
+            "image_files": [
+                "1\\3\\f\\13f4c9606bcae4ce.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01106\\01106.mp4",
+            "frame_positions": [
+                45125,
+                20750,
+                50000,
+                25625,
+                54875
+            ]
+        }
+    },
+    "Versöhnungskirche (Dresden)": {
+        "google_v2_images": {
+            "landmark_id": "169053",
+            "image_files": [
+                "0\\3\\4\\03449691a1fb34ae.jpg",
+                "0\\c\\a\\0ca1ce6deee02bfd.jpg",
+                "0\\e\\8\\0e87e6b8ac8f7a49.jpg",
+                "1\\5\\2\\15247dcce2f427ec.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01171\\01171.mp4",
+            "frame_positions": [
+                1250,
+                2500,
+                3750,
+                6250,
+                7500,
+                1875,
+                3125,
+                4375
+            ]
+        }
+    },
+    "Raglan Castle": {
+        "google_v2_images": {
+            "landmark_id": "89794",
+            "image_files": [
+                "0\\2\\4\\024b5439bdfaf2eb.jpg",
+                "1\\3\\4\\13447018b3101cc1.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01186\\01186.mp4",
+            "frame_positions": [
+                37125,
+                47375,
+                52500,
+                26875
+            ]
+        }
+    },
+    "Eiffel Tower": {
+        "google_v2_images": {
+            "landmark_id": "47378",
+            "image_files": [
+                "0\\8\\c\\08caf68108cf223d.jpg",
+                "0\\6\\f\\06f3ba91211a7a1d.jpg",
+                "0\\7\\d\\07d06891e67269a4.jpg",
+                "0\\5\\7\\057fc7f6d9322665.jpg",
+                "0\\7\\8\\0782116c5f3b177d.jpg",
+                "0\\5\\5\\055a7be7c0439f86.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01229\\01229.mp4",
+            "frame_positions": [
+                3875,
+                2000,
+                4250,
+                5375
+            ]
+        }
+    },
+    "Karlskirche Vienna": {
+        "google_v2_images": {
+            "landmark_id": "47880",
+            "image_files": [
+                "0\\8\\5\\08582fa280896b51.jpg",
+                "1\\1\\6\\116bceb0df01d352.jpg",
+                "0\\6\\4\\064f09f76f0f0f66.jpg",
+                "0\\0\\2\\002abb973427ce1e.jpg",
+                "0\\f\\e\\0fe5803b532099c0.jpg",
+                "0\\1\\7\\017cf420b7a736d9.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01305\\01305.mp4",
+            "frame_positions": [
+                9125
+            ]
+        }
+    },
+    "Forth Bridge": {
+        "google_v2_images": {
+            "landmark_id": "91274",
+            "image_files": [
+                "0\\1\\e\\01e9d3a8833ee275.jpg",
+                "0\\6\\8\\068bf4eb199e59eb.jpg",
+                "0\\6\\b\\06bd9c31d4f24844.jpg",
+                "0\\e\\7\\0e766fa12f6d72e3.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01323\\01323.mp4",
+            "frame_positions": [
+                3750,
+                2250,
+                6250,
+                1750
+            ]
+        }
+    },
+    "Kantanagar Temple": {
+        "google_v2_images": {
+            "landmark_id": "128268",
+            "image_files": [
+                "0\\7\\e\\07e3211ac12de61a.jpg",
+                "0\\0\\3\\003174b5847f7d8a.jpg",
+                "1\\4\\6\\1465ac82bf19c4d2.jpg",
+                "1\\3\\7\\137a18dc4a71a34c.jpg",
+                "0\\7\\6\\076f5246089e33ff.jpg",
+                "1\\4\\e\\14e3db22df0b03bf.jpg",
+                "1\\1\\8\\11849f0349507219.jpg",
+                "0\\1\\f\\01f608e3ffcf3376.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01355\\01355.mp4",
+            "frame_positions": [
+                1250,
+                4625,
+                4250
+            ]
+        }
+    },
+    "Kasteel Duivenvoorde": {
+        "google_v2_images": {
+            "landmark_id": "56460",
+            "image_files": [
+                "1\\3\\b\\13bc6dc5aa1835f1.jpg",
+                "0\\6\\e\\06e8a7044b8e5ab0.jpg",
+                "0\\8\\b\\08b892ff5bcfba0d.jpg",
+                "0\\4\\b\\04b290e2722bca1f.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01370\\01370.mp4",
+            "frame_positions": [
+                1250,
+                3500,
+                11375,
+                4625,
+                12500,
+                13625,
+                6875
+            ]
+        }
+    },
+    "Edinburgh Castle": {
+        "google_v2_images": {
+            "landmark_id": "165596",
+            "image_files": [
+                "0\\a\\c\\0ac60fb3d6f77914.jpg",
+                "0\\a\\8\\0a8ec1cde241fdb0.jpg",
+                "0\\9\\d\\09d4763e511fbb91.jpg",
+                "0\\0\\3\\0032d897f91f7202.jpg",
+                "0\\1\\4\\014a76da4cf91282.jpg",
+                "0\\2\\3\\023759af4135d4f5.jpg",
+                "0\\2\\5\\025b4e512482740c.jpg",
+                "0\\a\\6\\0a61981f67d36e6a.jpg",
+                "0\\6\\f\\06fccade4757ae0f.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01443\\01443.mp4",
+            "frame_positions": [
+                2000,
+                3125
+            ]
+        }
+    },
+    "Basilique Saint-Nicolas (Nantes)": {
+        "google_v2_images": {
+            "landmark_id": "60563",
+            "image_files": [
+                "0\\f\\6\\0f6d2ef0217ae93a.jpg",
+                "0\\3\\a\\03a891c70e1f69d5.jpg",
+                "0\\d\\5\\0d5ab867ad714f28.jpg",
+                "0\\5\\0\\05049b2b19f41ccc.jpg",
+                "0\\3\\2\\032f1a005f4fd261.jpg",
+                "0\\d\\b\\0db70754ddd0e9d8.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01493\\01493.mp4",
+            "frame_positions": [
+                3875,
+                2375,
+                3125,
+                1625,
+                4250
+            ]
+        }
+    },
+    "Krämerbrücke (Erfurt)": {
+        "google_v2_images": {
+            "landmark_id": "178973",
+            "image_files": [
+                "0\\0\\4\\0047fbb7643a9d03.jpg",
+                "0\\b\\6\\0b641346cd87a8ca.jpg",
+                "1\\6\\c\\16cfc88a0c2b4155.jpg",
+                "0\\a\\0\\0a0c957fbdfccbb7.jpg",
+                "0\\0\\6\\0067d73a16e695c4.jpg",
+                "0\\f\\9\\0f9815d3b55351be.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01528\\01528.mp4",
+            "frame_positions": [
+                1250,
+                4625,
+                3125,
+                1625
+            ]
+        }
+    },
+    "Ellora Caves": {
+        "google_v2_images": {
+            "landmark_id": "5170",
+            "image_files": [
+                "0\\5\\3\\0533ff6c77a24b35.jpg",
+                "0\\9\\c\\09c5e1cfbffcd5f1.jpg",
+                "0\\7\\8\\078892552debc556.jpg",
+                "0\\9\\d\\09dad48338c437d2.jpg",
+                "0\\d\\1\\0d17ba3d1df18c04.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01539\\01539.mp4",
+            "frame_positions": [
+                2750
+            ]
+        }
+    },
+    "Vittoriano (Rome)": {
+        "google_v2_images": {
+            "landmark_id": "132969",
+            "image_files": [
+                "0\\3\\a\\03a6b157c83a7fea.jpg",
+                "0\\0\\7\\007e12579fde9826.jpg",
+                "0\\3\\4\\034224292de84acd.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01547\\01547.mp4",
+            "frame_positions": [
+                1250,
+                3750,
+                2250,
+                3250,
+                1750,
+                3000,
+                1500
+            ]
+        }
+    },
+    "Hoover Dam": {
+        "google_v2_images": {
+            "landmark_id": "110496",
+            "image_files": [
+                "0\\0\\4\\004094bdb4ceb9dd.jpg",
+                "0\\f\\1\\0f16496ff04dd5ec.jpg",
+                "0\\2\\2\\022e071eb6afb3de.jpg"
+            ]
+        }
+    },
+    "Cathedral of Talin": {
+        "google_v2_images": {
+            "landmark_id": "113462",
+            "image_files": [
+                "0\\7\\e\\07e514b703ccf8bc.jpg",
+                "0\\d\\2\\0d2cf49d1229c67e.jpg",
+                "0\\4\\7\\0478de5ae2233d06.jpg",
+                "0\\0\\f\\00fc651ddee574b0.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01639\\01639.mp4",
+            "frame_positions": [
+                1250,
+                3875
+            ]
+        }
+    },
+    "Surb Zoravor Astvatsatsin Church": {
+        "google_v2_images": {
+            "landmark_id": "201061",
+            "image_files": [
+                "0\\e\\0\\0e0aee61d96631c1.jpg",
+                "0\\b\\1\\0b1542332f0955fc.jpg",
+                "0\\0\\c\\00c0d4bd532cf138.jpg",
+                "0\\9\\6\\0968ecf3b7aa6b97.jpg",
+                "0\\e\\c\\0ec12f57ed449e18.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01651\\01651.mp4",
+            "frame_positions": [
+                14750,
+                11750,
+                10250,
+                8750,
+                5750,
+                17750
+            ]
+        }
+    },
+    "Goshavank": {
+        "google_v2_images": {
+            "landmark_id": "142147",
+            "image_files": [
+                "0\\b\\f\\0bff11a61af43731.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01780\\01780.mp4",
+            "frame_positions": [
+                3125,
+                4250
+            ]
+        }
+    },
+    "Church of the Saviour on the Blood": {
+        "google_v2_images": {
+            "landmark_id": "190216",
+            "image_files": [
+                "2\\7\\0273515be205c755.jpg",
+                "0\\8\\5\\085e75f680b65227.jpg",
+                "0\\e\\b\\0ebdb624983a9bc7.jpg",
+                "1\\9\\b\\19b58a6d366496e6.jpg",
+                "1\\1\\4\\11411b585e4add08.jpg",
+                "0\\5\\6\\056b30a5a7508f86.jpg",
+                "1\\1\\5\\11566994de906160.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01806\\01806.mp4",
+            "frame_positions": [
+                1250,
+                3750,
+                6750,
+                2250,
+                6250,
+                4750,
+                3250,
+                7250
+            ]
+        }
+    },
+    "Memorial to the Murdered Jews of Europe": {
+        "google_v2_images": {
+            "landmark_id": "102904",
+            "image_files": [
+                "0\\a\\5\\0a5dacdabd886dbf.jpg",
+                "0\\0\\6\\00669f0807b505d2.jpg",
+                "0\\c\\a\\0cadb4c826647310.jpg",
+                "0\\0\\b\\00b1648cf97910fe.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01822\\01822.mp4",
+            "frame_positions": [
+                2500,
+                7500
+            ]
+        }
+    },
+    "Borobudur": {
+        "google_v2_images": {
+            "landmark_id": "168338",
+            "image_files": [
+                "0\\c\\6\\0c63af49e47ff41d.jpg",
+                "0\\3\\0\\030e0e039800c0fd.jpg",
+                "1\\8\\1\\181a23469a640abb.jpg",
+                "0\\d\\a\\0dab7c057a6eea30.jpg",
+                "0\\f\\3\\0f3f8395d66fe60b.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01829\\01829.mp4",
+            "frame_positions": [
+                2375,
+                4625,
+                3125,
+                1625
+            ]
+        }
+    },
+    "Etchmiadzin Cathedral": {
+        "google_v2_images": {
+            "landmark_id": "145934",
+            "image_files": [
+                "0\\4\\d\\04df58b8e107df5f.jpg",
+                "0\\e\\6\\0e6774882e3a4bc9.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01849\\01849.mp4",
+            "frame_positions": [
+                8000,
+                9125,
+                10250,
+                3500,
+                5750,
+                13625,
+                6875
+            ]
+        }
+    },
+    "Sint Elisabethskerk Grave": {
+        "google_v2_images": {
+            "landmark_id": "123159",
+            "image_files": [
+                "0\\9\\a\\09a65e52d9bdccfd.jpg",
+                "0\\0\\4\\00485ebee72bb82a.jpg",
+                "0\\e\\f\\0ef4f6e6346239a3.jpg",
+                "0\\1\\a\\01a40b69b3b45fb2.jpg",
+                "0\\8\\5\\0853bc7ebcae51a4.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01862\\01862.mp4",
+            "frame_positions": [
+                1250,
+                6500,
+                11750,
+                17000,
+                22250,
+                27500,
+                32750,
+                38000,
+                53750
+            ]
+        }
+    },
+    "Angkor Wat": {
+        "google_v2_images": {
+            "landmark_id": "18392",
+            "image_files": [
+                "0\\4\\b\\04b31d3b66842627.jpg",
+                "0\\8\\5\\085e3dbfae26aad8.jpg",
+                "0\\1\\c\\01cabcd74959d3a5.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01899\\01899.mp4",
+            "frame_positions": [
+                9125,
+                11375
+            ]
+        }
+    },
+    "Château d'Amboise": {
+        "google_v2_images": {
+            "landmark_id": "188787",
+            "image_files": [
+                "2\\c\\02c96dbc0252533e.jpg",
+                "1\\1\\b\\11bbcb5b34b2c590.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01987\\01987.mp4",
+            "frame_positions": [
+                2375,
+                2000,
+                1625
+            ]
+        }
+    },
+    "Abbaye Sainte-Marie de Lagrasse": {
+        "google_v2_images": {
+            "landmark_id": "177452",
+            "image_files": [
+                "1\\1\\9\\119c328de82ef045.jpg",
+                "0\\3\\e\\03ea35adc047c89d.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\01992\\01992.mp4",
+            "frame_positions": [
+                15875,
+                6125,
+                19125,
+                11000,
+                9375
+            ]
+        }
+    },
+    "Castle Ammersoyen": {
+        "google_v2_images": {
+            "landmark_id": "114565",
+            "image_files": [
+                "1\\0\\e\\10e88cb53423f9a5.jpg",
+                "0\\b\\f\\0bf29be7eae340f9.jpg",
+                "0\\9\\a\\09ab1f50bed029b5.jpg",
+                "0\\7\\4\\0741f12a4f1fd09f.jpg",
+                "0\\b\\5\\0b5fa990b9a63b50.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02009\\02009.mp4",
+            "frame_positions": [
+                1250,
+                3500,
+                3250
+            ]
+        }
+    },
+    "Royal Palace of Amsterdam": {
+        "google_v2_images": {
+            "landmark_id": "91059",
+            "image_files": [
+                "0\\8\\2\\082755be5257d69e.jpg",
+                "0\\5\\3\\053cd36002829078.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02033\\02033.mp4",
+            "frame_positions": [
+                6500,
+                11750,
+                19625,
+                30125
+            ]
+        }
+    },
+    "Moritzburg Castle": {
+        "google_v2_images": {
+            "landmark_id": "5292",
+            "image_files": [
+                "1\\3\\1\\1312e88045b03d9d.jpg",
+                "0\\8\\c\\08c494ef32257ce2.jpg",
+                "0\\5\\8\\0588f7a7a8330ac3.jpg",
+                "1\\6\\2\\162f58b0f1cebb81.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02039\\02039.mp4",
+            "frame_positions": [
+                3750,
+                2250,
+                2000,
+                3250,
+                1750,
+                3000
+            ]
+        }
+    },
+    "Sacra di San Michele": {
+        "google_v2_images": {
+            "landmark_id": "106126",
+            "image_files": [
+                "0\\c\\2\\0c2a9e33ed9fe588.jpg",
+                "0\\3\\a\\03aaff66a1ae2fa1.jpg",
+                "1\\3\\b\\13bc8d833c230fdc.jpg",
+                "1\\5\\8\\15808b9e92c2249f.jpg",
+                "0\\6\\7\\067add00d87941e1.jpg",
+                "0\\0\\5\\00562e33f481adc5.jpg",
+                "0\\7\\f\\07f227ebc6aaf748.jpg",
+                "0\\7\\e\\07e641777cfaa576.jpg",
+                "0\\a\\e\\0ae285008a726e9f.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02048\\02048.mp4",
+            "frame_positions": [
+                1250,
+                3750,
+                2250,
+                1750,
+                2750
+            ]
+        }
+    },
+    "Giant Wild Goose Pagoda": {
+        "google_v2_images": {
+            "landmark_id": "39070",
+            "image_files": [
+                "0\\0\\5\\00595fd3a01fee7f.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02065\\02065.mp4",
+            "frame_positions": [
+                5000,
+                4625,
+                1625,
+                4250,
+                2750,
+                5375
+            ]
+        }
+    },
+    "Stockholm City Hall": {
+        "google_v2_images": {
+            "landmark_id": "131176",
+            "image_files": [
+                "0\\d\\1\\0d10a4519c07ba85.jpg",
+                "0\\d\\9\\0d9ef0bc5fc41bff.jpg",
+                "0\\0\\5\\005eb91f43c3ca4c.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02073\\02073.mp4",
+            "frame_positions": [
+                8000,
+                6500,
+                5750
+            ]
+        }
+    },
+    "Faisal Mosque": {
+        "google_v2_images": {
+            "landmark_id": "190822",
+            "image_files": [
+                "0\\4\\d\\04dea415e27e8033.jpg",
+                "0\\f\\1\\0f1442a12613d403.jpg",
+                "0\\b\\e\\0be37a3ce3b4c5d9.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02078\\02078.mp4",
+            "frame_positions": [
+                1250,
+                11750,
+                17000,
+                10000,
+                15250,
+                3000
+            ]
+        }
+    },
+    "Niedzica Castle": {
+        "google_v2_images": {
+            "landmark_id": "199735",
+            "image_files": [
+                "0\\8\\5\\085f96518f64ab6e.jpg",
+                "0\\0\\6\\0061ea15e21955e3.jpg",
+                "0\\2\\3\\0237c381079d0ecc.jpg",
+                "1\\3\\c\\13c759f41059c925.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02120\\02120.mp4",
+            "frame_positions": [
+                2000,
+                3250,
+                3000
+            ]
+        }
+    },
+    "Tajhat Palace": {
+        "google_v2_images": {
+            "landmark_id": "174834",
+            "image_files": [
+                "1\\5\\2\\1527b06e0692e72e.jpg",
+                "0\\e\\8\\0e8138916cfd5485.jpg",
+                "1\\1\\d\\11d142e4088b9332.jpg",
+                "0\\c\\0\\0c02ab5657793ee2.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02126\\02126.mp4",
+            "frame_positions": [
+                3875,
+                2375,
+                5000,
+                3500,
+                2000,
+                4625,
+                3125,
+                1625,
+                2750
+            ]
+        }
+    },
+    "Château de Chambord": {
+        "google_v2_images": {
+            "landmark_id": "32338",
+            "image_files": [
+                "0\\8\\e\\08ec7b08aecf4050.jpg",
+                "0\\1\\9\\0197eb2548db36b9.jpg",
+                "1\\1\\1\\11114ff7cb372121.jpg",
+                "0\\4\\0\\040f9ed7f3cd5f87.jpg",
+                "1\\2\\3\\123fc79b81027944.jpg",
+                "0\\f\\6\\0f6331c92f58a4b7.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02144\\02144.mp4",
+            "frame_positions": [
+                1250,
+                4750,
+                3250,
+                1750,
+                5750,
+                2750
+            ]
+        }
+    },
+    "Palacio de La Moneda": {
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02204\\02204.mp4",
+            "frame_positions": [
+                1250
+            ]
+        }
+    },
+    "Stadhuis (Gouda)": {
+        "google_v2_images": {
+            "landmark_id": "161592",
+            "image_files": [
+                "1\\2\\5\\125b8e76f81af879.jpg",
+                "0\\c\\e\\0ce2b822a4b5ecdf.jpg",
+                "0\\e\\8\\0e8a6cc836c816c6.jpg",
+                "1\\1\\5\\115efc0021e09423.jpg",
+                "0\\5\\5\\0557df1134fca6b6.jpg",
+                "0\\d\\1\\0d12d2fac756703a.jpg",
+                "1\\4\\0\\14072b6f27ba0ea5.jpg",
+                "0\\b\\d\\0bdf575cf107f2bb.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02223\\02223.mp4",
+            "frame_positions": [
+                1500,
+                2750
+            ]
+        }
+    },
+    "Osogovo Monastery": {
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02280\\02280.mp4",
+            "frame_positions": [
+                23750,
+                26000,
+                12500,
+                5750,
+                21500,
+                14750
+            ]
+        }
+    },
+    "Kapellbrücke": {
+        "google_v2_images": {
+            "landmark_id": "85807",
+            "image_files": [
+                "0\\d\\0\\0d0ca7d01593e66d.jpg",
+                "1\\2\\4\\124eb4f3b96cbaab.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02300\\02300.mp4",
+            "frame_positions": [
+                1250,
+                5250,
+                21250,
+                11250,
+                15250,
+                19250,
+                23250
+            ]
+        }
+    },
+    "Český Krumlov Castle": {
+        "google_v2_images": {
+            "landmark_id": "48753",
+            "image_files": [
+                "0\\1\\d\\01d9b7c36be399bb.jpg",
+                "0\\f\\f\\0ffbf58211453900.jpg",
+                "0\\c\\5\\0c5cacbe46884800.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02448\\02448.mp4",
+            "frame_positions": [
+                1250,
+                2250,
+                4750,
+                3250,
+                1750,
+                2750
+            ]
+        }
+    },
+    "Castle Heeswijk": {
+        "google_v2_images": {
+            "landmark_id": "5004",
+            "image_files": [
+                "0\\8\\a\\08a8c1b889b0a039.jpg",
+                "0\\a\\1\\0a14db0f120189a5.jpg",
+                "0\\1\\b\\01b3fb84b99d277f.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02521\\02521.mp4",
+            "frame_positions": [
+                2375,
+                5000,
+                4625,
+                4250
+            ]
+        }
+    },
+    "Palace of Paskievičs Homieĺ": {
+        "google_v2_images": {
+            "landmark_id": "104341",
+            "image_files": [
+                "0\\f\\3\\0f3e0ee24c3e415e.jpg",
+                "1\\4\\d\\14df6676d1f5c9e0.jpg",
+                "0\\d\\f\\0dfedd7b844b2bf9.jpg",
+                "1\\3\\3\\133bcdb02f95615d.jpg",
+                "0\\d\\a\\0da95a66113ef041.jpg",
+                "1\\1\\b\\11beb518ef53aef5.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02592\\02592.mp4",
+            "frame_positions": [
+                1250,
+                5250,
+                5750,
+                4250
+            ]
+        }
+    },
+    "Blue Wonder": {
+        "google_v2_images": {
+            "landmark_id": "134125",
+            "image_files": [
+                "0\\0\\8\\0085c8c7078e31c6.jpg",
+                "0\\0\\e\\00e1b2e77c1818a6.jpg",
+                "1\\5\\5\\155334c51f00e942.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02595\\02595.mp4",
+            "frame_positions": [
+                1250,
+                6250,
+                4750,
+                1750,
+                2750
+            ]
+        }
+    },
+    "Schloss Oberwerries": {
+        "google_v2_images": {
+            "landmark_id": "53092",
+            "image_files": [
+                "0\\4\\2\\042ae7e1b61e9fd2.jpg",
+                "0\\9\\c\\09c12d435dfb575b.jpg",
+                "0\\c\\7\\0c7564340680da71.jpg",
+                "1\\0\\2\\10206df98d0c632e.jpg",
+                "0\\c\\8\\0c82dc3a00601816.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02824\\02824.mp4",
+            "frame_positions": [
+                1250,
+                3875,
+                5000,
+                3500,
+                3125,
+                2750
+            ]
+        }
+    },
+    "Amberd": {
+        "google_v2_images": {
+            "landmark_id": "172056",
+            "image_files": [
+                "0\\a\\c\\0acdd616640f9a95.jpg",
+                "0\\6\\e\\06e4803c4a8c9bb6.jpg",
+                "0\\f\\5\\0f5e52ecec7a9417.jpg",
+                "1\\1\\a\\11a5dfd5eba353b1.jpg",
+                "1\\1\\b\\11b21b9d8c5cebbe.jpg",
+                "0\\4\\8\\0481ba20dd13390d.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02860\\02860.mp4",
+            "frame_positions": [
+                3875,
+                4250
+            ]
+        }
+    },
+    "Olsztyn Jura Castle": {
+        "google_v2_images": {
+            "landmark_id": "144201",
+            "image_files": [
+                "0\\b\\2\\0b2ed7c124ad5e62.jpg",
+                "0\\e\\4\\0e4c651b34c62c80.jpg",
+                "0\\1\\c\\01c8e4780c760760.jpg",
+                "0\\7\\a\\07a599b7bd1d2570.jpg",
+                "0\\c\\0\\0c0d92fb7a99f08a.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\02944\\02944.mp4",
+            "frame_positions": [
+                8750,
+                28750,
+                18750
+            ]
+        }
+    },
+    "Akhtala monastery": {
+        "google_v2_images": {
+            "landmark_id": "25457",
+            "image_files": [
+                "0\\7\\c\\07c3fde02621ab74.jpg",
+                "0\\1\\7\\0170af4dc5a701a2.jpg",
+                "0\\1\\2\\012ac6f6e6198b69.jpg",
+                "0\\5\\6\\056b9457ecd9a6b3.jpg",
+                "0\\e\\d\\0ed64ef13c9b429e.jpg",
+                "0\\0\\8\\008de0b961e60e41.jpg",
+                "0\\c\\0\\0c022d2b7398b769.jpg",
+                "0\\c\\0\\0c0e1893b48e55ce.jpg",
+                "0\\b\\8\\0b8cb84495d5a272.jpg",
+                "0\\5\\9\\0598db9a7c26e769.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03052\\03052.mp4",
+            "frame_positions": [
+                6500,
+                3500,
+                8750,
+                7250,
+                4250
+            ]
+        }
+    },
+    "Ek' balam": {
+        "google_v2_images": {
+            "landmark_id": "115658",
+            "image_files": [
+                "0\\5\\4\\0545b0167ffed1f0.jpg",
+                "0\\9\\d\\09df6dd994f31253.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03082\\03082.mp4",
+            "frame_positions": [
+                1250,
+                3500,
+                3125
+            ]
+        }
+    },
+    "Binondo Church": {
+        "google_v2_images": {
+            "landmark_id": "162345",
+            "image_files": [
+                "1\\2\\6\\126ddf8f1e5babed.jpg",
+                "1\\9\\e\\19e46ee10c60d992.jpg",
+                "0\\7\\4\\074f3f541c60ed7b.jpg",
+                "0\\1\\5\\015d45aa8c4cc2fc.jpg",
+                "1\\8\\9\\189104603da47771.jpg",
+                "1\\0\\e\\10ee70855e92cb2e.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03221\\03221.mp4",
+            "frame_positions": [
+                5250,
+                9250,
+                6250,
+                10250,
+                4250
+            ]
+        }
+    },
+    "Soviet War Memorial (Treptower Park)": {
+        "google_v2_images": {
+            "landmark_id": "42054",
+            "image_files": [
+                "0\\b\\e\\0bede433b55bd831.jpg",
+                "0\\f\\3\\0f3b81bb12827656.jpg",
+                "1\\4\\5\\1457acbb871e9770.jpg",
+                "0\\6\\8\\0683807b3514c3de.jpg",
+                "1\\1\\f\\11fd50fb5fe23182.jpg",
+                "1\\3\\0\\130e18ea3c7a2814.jpg",
+                "1\\7\\3\\173b21c17b860b55.jpg",
+                "1\\5\\3\\153d431abc780ea1.jpg",
+                "1\\6\\1\\16116c2195550f36.jpg",
+                "0\\6\\b\\06b662afc459bdf9.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03223\\03223.mp4",
+            "frame_positions": [
+                3875,
+                4625
+            ]
+        }
+    },
+    "Victoria Memorial Kolkata": {
+        "google_v2_images": {
+            "landmark_id": "64792",
+            "image_files": [
+                "0\\7\\1\\071ec28412a7e6b8.jpg",
+                "0\\5\\7\\0573c3d212f022b8.jpg",
+                "0\\2\\6\\026b81069a057644.jpg",
+                "0\\0\\9\\009992e1f0515326.jpg",
+                "0\\9\\7\\0974a400c4068ab3.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03308\\03308.mp4",
+            "frame_positions": [
+                3750,
+                4250
+            ]
+        }
+    },
+    "Alexander Nevsky Cathedral Sofia": {
+        "google_v2_images": {
+            "landmark_id": "88483",
+            "image_files": [
+                "1\\1\\4\\114329f44bf323cb.jpg",
+                "0\\a\\8\\0a8fe3d2fbe854c9.jpg",
+                "0\\e\\b\\0eb770202958052b.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03355\\03355.mp4",
+            "frame_positions": [
+                3250
+            ]
+        }
+    },
+    "Vienna City Hall": {
+        "google_v2_images": {
+            "landmark_id": "102850",
+            "image_files": [
+                "0\\e\\e\\0ee9a241e703eeb4.jpg",
+                "0\\b\\9\\0b9e1d953913d489.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03361\\03361.mp4",
+            "frame_positions": [
+                1250,
+                10250,
+                11250
+            ]
+        }
+    },
+    "Hanging Temple": {
+        "google_v2_images": {
+            "landmark_id": "65906",
+            "image_files": [
+                "0\\2\\6\\0261e5854c4aa649.jpg",
+                "1\\1\\3\\11399f570b548312.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03391\\03391.mp4",
+            "frame_positions": [
+                1250,
+                5250,
+                11250,
+                23250
+            ]
+        }
+    },
+    "Dresden Castle": {
+        "google_v2_images": {
+            "landmark_id": "113253",
+            "image_files": [
+                "1\\0\\1\\101e52130f8b2885.jpg",
+                "1\\7\\3\\173ac6264f833849.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03396\\03396.mp4",
+            "frame_positions": [
+                1250,
+                6750,
+                6250,
+                4750,
+                5750,
+                2750
+            ]
+        }
+    },
+    "Château d'Azay-le-Rideau": {
+        "google_v2_images": {
+            "landmark_id": "66807",
+            "image_files": [
+                "0\\f\\4\\0f467dc1bdf1076d.jpg",
+                "0\\9\\a\\09a2bcd2ee6f5b6e.jpg",
+                "0\\a\\c\\0ac54f97fa0918ec.jpg",
+                "0\\f\\2\\0f245cbed5f6a815.jpg",
+                "0\\2\\a\\02a0180c290c8004.jpg",
+                "0\\0\\f\\00faa0f17383529f.jpg"
+            ]
+        }
+    },
+    "Potala Palace": {
+        "google_v2_images": {
+            "landmark_id": "193938",
+            "image_files": [
+                "0\\d\\a\\0da8f7eff48fc18e.jpg",
+                "1\\8\\e\\18e0b9466804b69d.jpg",
+                "0\\0\\b\\00b3a5cc0ef82e35.jpg",
+                "1\\4\\f\\14f784e2bb113775.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03490\\03490.mp4",
+            "frame_positions": [
+                1250,
+                45000,
+                27500,
+                40625,
+                49375
+            ]
+        }
+    },
+    "Washington Monument": {
+        "google_v2_images": {
+            "landmark_id": "57015",
+            "image_files": [
+                "0\\e\\6\\0e62eb2ff230b154.jpg",
+                "0\\7\\a\\07afd8cd9c67d454.jpg",
+                "0\\1\\c\\01cdba4fa5f36fcd.jpg",
+                "0\\0\\b\\00b57ff59ae5a571.jpg",
+                "0\\3\\8\\03885bc346667c4b.jpg",
+                "0\\1\\7\\017d4de4aad26ffd.jpg",
+                "0\\f\\a\\0fae78808fc03d6d.jpg",
+                "0\\7\\6\\076ca2e8e92a9e21.jpg",
+                "0\\2\\3\\02351b6c2bbcc3c4.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03496\\03496.mp4",
+            "frame_positions": [
+                2250,
+                4750,
+                1750,
+                5750
+            ]
+        }
+    },
+    "Peleș Castle": {
+        "google_v2_images": {
+            "landmark_id": "123731",
+            "image_files": [
+                "1\\0\\d\\10da1279f0c11217.jpg",
+                "0\\4\\d\\04df3ddac994ac3d.jpg",
+                "1\\5\\6\\15656dfb67f221a1.jpg",
+                "1\\7\\b\\17b19238d60596eb.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03599\\03599.mp4",
+            "frame_positions": [
+                10250,
+                11375,
+                4625,
+                5750
+            ]
+        }
+    },
+    "Teatro Carlo Felice (Genoa)": {
+        "google_v2_images": {
+            "landmark_id": "4226",
+            "image_files": [
+                "0\\6\\2\\062ee1d670b3c4ca.jpg",
+                "0\\4\\0\\040f4a366c754f13.jpg",
+                "1\\2\\5\\12560afbc842c6f5.jpg",
+                "0\\b\\b\\0bbbe9a531f99e98.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03632\\03632.mp4",
+            "frame_positions": [
+                12250,
+                1250,
+                10250,
+                3250,
+                7250,
+                11250
+            ]
+        }
+    },
+    "Villers Abbey": {
+        "google_v2_images": {
+            "landmark_id": "111347",
+            "image_files": [
+                "1\\8\\a\\18a24a9a883b4e3d.jpg",
+                "1\\9\\7\\197937dc2df07f9d.jpg",
+                "0\\d\\6\\0d6ba0ad730094e0.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03678\\03678.mp4",
+            "frame_positions": [
+                1250,
+                2000
+            ]
+        }
+    },
+    "Šarena Džamija (Tetovo)": {
+        "google_v2_images": {
+            "landmark_id": "178829",
+            "image_files": [
+                "1\\4\\a\\14acb32a40f2fb72.jpg",
+                "1\\0\\c\\10cc2456f716517c.jpg",
+                "0\\9\\f\\09f2f1199f58ce28.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03718\\03718.mp4",
+            "frame_positions": [
+                1250,
+                8250
+            ]
+        }
+    },
+    "Isa Khan Niyazi's tomb": {
+        "google_v2_images": {
+            "landmark_id": "27",
+            "image_files": [
+                "0\\4\\9\\0494a4b4e535990b.jpg",
+                "0\\6\\7\\067f2d8ea47a5161.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03746\\03746.mp4",
+            "frame_positions": [
+                1250,
+                3875,
+                3500,
+                3125,
+                2750
+            ]
+        }
+    },
+    "Narikala": {
+        "google_v2_images": {
+            "landmark_id": "132215",
+            "image_files": [
+                "0\\d\\a\\0da9b60e53962cf3.jpg",
+                "1\\8\\a\\18a0d99026a10396.jpg",
+                "1\\1\\b\\11bab3be65a79566.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03821\\03821.mp4",
+            "frame_positions": [
+                2500,
+                2250,
+                2000,
+                1750,
+                2750
+            ]
+        }
+    },
+    "Jantar Mantar (Delhi)": {
+        "google_v2_images": {
+            "landmark_id": "65068",
+            "image_files": [
+                "0\\a\\9\\0a953bf959a05319.jpg",
+                "0\\c\\0\\0c06a92b8bdaae56.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03829\\03829.mp4",
+            "frame_positions": [
+                2500,
+                3750,
+                5000,
+                6250,
+                7500,
+                1875,
+                3125,
+                6875
+            ]
+        }
+    },
+    "Cēsis Castle": {
+        "google_v2_images": {
+            "landmark_id": "98699",
+            "image_files": [
+                "0\\e\\c\\0ecc56f78b91affe.jpg",
+                "1\\5\\4\\1541a8f7e9970654.jpg",
+                "0\\7\\d\\07da3799276e2a3f.jpg",
+                "0\\a\\6\\0a695b57994be0e0.jpg",
+                "0\\e\\8\\0e89d317f964cf10.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03933\\03933.mp4",
+            "frame_positions": [
+                1250,
+                2000,
+                4625,
+                2750
+            ]
+        }
+    },
+    "Eusebius Church (Arnhem)": {
+        "google_v2_images": {
+            "landmark_id": "74821",
+            "image_files": [
+                "1\\6\\a\\16aeed7c249d2a3b.jpg",
+                "0\\0\\d\\00def45cbfe6ccc9.jpg",
+                "1\\6\\4\\1640faa5152061e4.jpg",
+                "1\\4\\6\\146e1e8c4ef2db33.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03955\\03955.mp4",
+            "frame_positions": [
+                11750,
+                4750,
+                3000,
+                13500
+            ]
+        }
+    },
+    "Ashtarak Marine church": {
+        "google_v2_images": {
+            "landmark_id": "72686",
+            "image_files": [
+                "1\\2\\3\\12332364b8fd856d.jpg",
+                "0\\b\\a\\0ba1acf0d6b6d93f.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\03963\\03963.mp4",
+            "frame_positions": [
+                3125
+            ]
+        }
+    },
+    "Stadhuis Middelburg": {
+        "google_v2_images": {
+            "landmark_id": "200305",
+            "image_files": [
+                "0\\c\\8\\0c8232a92290205a.jpg",
+                "0\\9\\1\\091f93fcb7100124.jpg",
+                "1\\2\\2\\1226757dfd3a8b1f.jpg",
+                "0\\9\\f\\09f1cce83a7995b8.jpg",
+                "0\\a\\5\\0a55488a1a0d822f.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04007\\04007.mp4",
+            "frame_positions": [
+                5250,
+                2750
+            ]
+        }
+    },
+    "Rudkhan Castle": {
+        "google_v2_images": {
+            "landmark_id": "10217",
+            "image_files": [
+                "0\\b\\7\\0b78a14acf1b5a8f.jpg",
+                "1\\3\\e\\13e390b301293929.jpg",
+                "0\\e\\9\\0e94b6c80e71ff93.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04067\\04067.mp4",
+            "frame_positions": [
+                1250,
+                7500,
+                4375,
+                5625
+            ]
+        }
+    },
+    "Atomium": {
+        "google_v2_images": {
+            "landmark_id": "150591",
+            "image_files": [
+                "0\\e\\b\\0eb6474f7ec4ca4d.jpg",
+                "0\\c\\9\\0c993510578209a4.jpg",
+                "0\\5\\6\\0569c472c4ec41c0.jpg",
+                "0\\d\\6\\0d6ae3c575f3cc9d.jpg",
+                "0\\0\\e\\00e8bc8139bb8121.jpg",
+                "0\\1\\f\\01f205c410f407a1.jpg",
+                "1\\3\\9\\139dab84fa5dfe85.jpg",
+                "1\\1\\5\\1156cba23a0efbd1.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04090\\04090.mp4",
+            "frame_positions": [
+                1250,
+                3875,
+                6500,
+                7375,
+                3000,
+                8250
+            ]
+        }
+    },
+    "Burg Stolpen": {
+        "google_v2_images": {
+            "landmark_id": "55766",
+            "image_files": [
+                "1\\7\\1\\171c3c4d6d8f2b69.jpg",
+                "1\\9\\1\\191cfa0abe8d4ded.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04093\\04093.mp4",
+            "frame_positions": [
+                3875,
+                3125
+            ]
+        }
+    },
+    "Schloss Nordkirchen": {
+        "google_v2_images": {
+            "landmark_id": "87157",
+            "image_files": [
+                "1\\6\\c\\16c194563eb743e0.jpg",
+                "0\\7\\5\\075ad6001ab7bd88.jpg",
+                "0\\8\\b\\08bfe3ab35fbd51c.jpg",
+                "1\\1\\5\\115a261b22e94e19.jpg",
+                "1\\8\\8\\188896b63c1e04e6.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04269\\04269.mp4",
+            "frame_positions": [
+                2375
+            ]
+        }
+    },
+    "Olympiastadion Berlin": {
+        "google_v2_images": {
+            "landmark_id": "162042",
+            "image_files": [
+                "0\\f\\e\\0fe2a531a05995d2.jpg",
+                "0\\c\\6\\0c6b96c8391110f1.jpg",
+                "0\\f\\5\\0f54627c4597ebd5.jpg",
+                "0\\4\\5\\045e112e644a2c75.jpg",
+                "0\\2\\d\\02df44e2ac9cf872.jpg"
+            ]
+        }
+    },
+    "Sydney Harbour Bridge": {
+        "google_v2_images": {
+            "landmark_id": "94310",
+            "image_files": [
+                "1\\1\\3\\1134bef2a1418510.jpg",
+                "0\\1\\6\\016bb6eb89bb1faf.jpg",
+                "0\\1\\1\\0118390099d51a62.jpg",
+                "1\\3\\f\\13fd287426267cfb.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04350\\04350.mp4",
+            "frame_positions": [
+                4375
+            ]
+        }
+    },
+    "Gateshead Millennium Bridge": {
+        "google_v2_images": {
+            "landmark_id": "82386",
+            "image_files": [
+                "0\\d\\d\\0dda39f770b1b2d8.jpg",
+                "0\\c\\d\\0cdbd6582b0fcf55.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04351\\04351.mp4",
+            "frame_positions": [
+                3750,
+                23750,
+                8750,
+                11250,
+                16250
+            ]
+        }
+    },
+    "Zhovkva Castle": {
+        "google_v2_images": {
+            "landmark_id": "34539",
+            "image_files": [
+                "0\\8\\4\\084b9f0df22ef8f5.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04365\\04365.mp4",
+            "frame_positions": [
+                3875,
+                2375,
+                5000,
+                3500,
+                3125
+            ]
+        }
+    },
+    "Festung Marienberg": {
+        "google_v2_images": {
+            "landmark_id": "69743",
+            "image_files": [
+                "1\\1\\0\\1109f89177cb4408.jpg",
+                "0\\8\\8\\0887beef4888e4f4.jpg",
+                "0\\a\\b\\0ab2e39398a52c56.jpg",
+                "1\\8\\1\\181927fd7f11cc4a.jpg",
+                "0\\f\\6\\0f60aeee2f363abe.jpg",
+                "0\\f\\c\\0fc88f67fbcf5b95.jpg",
+                "0\\8\\f\\08f2ef8f1947b877.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04421\\04421.mp4",
+            "frame_positions": [
+                1750,
+                2750
+            ]
+        }
+    },
+    "Whitby Abbey": {
+        "google_v2_images": {
+            "landmark_id": "154243",
+            "image_files": [
+                "1\\0\\f\\10f409c089bf409e.jpg",
+                "0\\c\\7\\0c7e30649fafc98b.jpg",
+                "0\\e\\6\\0e6cba6c0587f55e.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04439\\04439.mp4",
+            "frame_positions": [
+                14750,
+                7250,
+                17750,
+                4250
+            ]
+        }
+    },
+    "Aterro do Flamengo": {
+        "google_v2_images": {
+            "landmark_id": "15317",
+            "image_files": [
+                "1\\7\\1\\171e41a6ffe10174.jpg",
+                "0\\9\\c\\09c963ef1ec8cc99.jpg",
+                "1\\6\\5\\165e331332c95868.jpg",
+                "0\\d\\4\\0d4a4492dd568bbe.jpg",
+                "1\\1\\6\\11637531076a8e85.jpg",
+                "1\\2\\d\\12df8300d759d7cb.jpg",
+                "0\\d\\b\\0db2b7730c69249a.jpg",
+                "0\\b\\1\\0b1b1cff6da837d9.jpg",
+                "0\\c\\2\\0c27f728f85664d2.jpg",
+                "1\\0\\c\\10c60a8c8c3b7813.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04445\\04445.mp4",
+            "frame_positions": [
+                3750,
+                5000,
+                7500,
+                3125,
+                4375,
+                6875
+            ]
+        }
+    },
+    "St Walburgis Church (Zutphen)": {
+        "google_v2_images": {
+            "landmark_id": "148314",
+            "image_files": [
+                "0\\a\\2\\0a2b8119c7969bf8.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04476\\04476.mp4",
+            "frame_positions": [
+                5250,
+                3750,
+                2250,
+                1750,
+                4250
+            ]
+        }
+    },
+    "Summer Palace Beijing": {
+        "google_v2_images": {
+            "landmark_id": "80811",
+            "image_files": [
+                "0\\4\\c\\04c9f94705b124a1.jpg",
+                "0\\4\\d\\04d75577f79b98b4.jpg",
+                "1\\7\\6\\17672c3daba8f4e9.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04487\\04487.mp4",
+            "frame_positions": [
+                2250,
+                6250,
+                4750
+            ]
+        }
+    },
+    "Lviv Opera House": {
+        "google_v2_images": {
+            "landmark_id": "200931",
+            "image_files": [
+                "1\\4\\b\\14bbd0a4a90b95a7.jpg",
+                "1\\0\\0\\10068a8ffffd8c21.jpg",
+                "0\\f\\8\\0f8eb739b3fe8040.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04527\\04527.mp4",
+            "frame_positions": [
+                3875,
+                4625,
+                1625,
+                2750
+            ]
+        }
+    },
+    "Trevi fountain": {
+        "google_v2_images": {
+            "landmark_id": "33636",
+            "image_files": [
+                "0\\1\\5\\015a942ded6231ce.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04552\\04552.mp4",
+            "frame_positions": [
+                2500,
+                3750,
+                5000,
+                3125,
+                4375,
+                6875
+            ]
+        }
+    },
+    "Castle Doorwerth": {
+        "google_v2_images": {
+            "landmark_id": "89207",
+            "image_files": [
+                "0\\4\\8\\0485cf6d1f6e46a0.jpg",
+                "0\\7\\4\\07425b236eef0406.jpg",
+                "0\\2\\0\\020cc32275fc022f.jpg",
+                "0\\5\\2\\05226ec3444a0f1b.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04627\\04627.mp4",
+            "frame_positions": [
+                1250,
+                3500,
+                2000,
+                9500
+            ]
+        }
+    },
+    "Trakai Island Castle": {
+        "google_v2_images": {
+            "landmark_id": "31837",
+            "image_files": [
+                "0\\1\\7\\0174abfc287a3999.jpg",
+                "0\\b\\0\\0b0314fedabacf4e.jpg",
+                "0\\9\\e\\09e5e932312e7eea.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04691\\04691.mp4",
+            "frame_positions": [
+                3500
+            ]
+        }
+    },
+    "Svetitskhoveli": {
+        "google_v2_images": {
+            "landmark_id": "69499",
+            "image_files": [
+                "0\\3\\4\\034f12e44ee27d0a.jpg",
+                "1\\5\\c\\15cfed840ffa24a2.jpg",
+                "1\\2\\5\\12500091478098e4.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04705\\04705.mp4",
+            "frame_positions": [
+                2500,
+                5000,
+                6250,
+                7500,
+                4375,
+                5625
+            ]
+        }
+    },
+    "Palace of Culture and Science": {
+        "google_v2_images": {
+            "landmark_id": "124455",
+            "image_files": [
+                "0\\e\\e\\0eecec18f13ac082.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04730\\04730.mp4",
+            "frame_positions": [
+                3875,
+                3500,
+                3125,
+                1625,
+                4250
+            ]
+        }
+    },
+    "Caernarfon Castle": {
+        "google_v2_images": {
+            "landmark_id": "108472",
+            "image_files": [
+                "0\\4\\f\\04f43eef522bb956.jpg",
+                "0\\4\\c\\04c82746913ba262.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04736\\04736.mp4",
+            "frame_positions": [
+                1250,
+                42500,
+                17750
+            ]
+        }
+    },
+    "Mother Teresa Memorial Home (Skopje)": {
+        "google_v2_images": {
+            "landmark_id": "164734",
+            "image_files": [
+                "1\\7\\2\\1728850195525919.jpg",
+                "1\\2\\0\\1207ce460e81bba8.jpg",
+                "1\\0\\8\\1083281ad91768f6.jpg",
+                "1\\5\\4\\154978e419bcd9fd.jpg",
+                "1\\8\\b\\18b4e77782c8a733.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04748\\04748.mp4",
+            "frame_positions": [
+                2000,
+                3250,
+                1500,
+                2750
+            ]
+        }
+    },
+    "Guggenheim Museum Bilbao": {
+        "google_v2_images": {
+            "landmark_id": "65818",
+            "image_files": [
+                "1\\8\\2\\182e2b5c41b35165.jpg",
+                "0\\f\\e\\0fe30f3e77acc73b.jpg",
+                "0\\a\\f\\0afa69773dd90763.jpg",
+                "0\\8\\2\\082e901e262dee1e.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04765\\04765.mp4",
+            "frame_positions": [
+                6250,
+                3250,
+                4250
+            ]
+        }
+    },
+    "Palácio Nacional da Pena": {
+        "google_v2_images": {
+            "landmark_id": "149403",
+            "image_files": [
+                "0\\c\\a\\0ca11651f2be11f0.jpg",
+                "0\\7\\d\\07d9c165cd3676c7.jpg",
+                "0\\9\\7\\0974c37ac4701b74.jpg",
+                "1\\a\\1\\1a1095647b3b556f.jpg",
+                "0\\4\\f\\04fbe880dce72773.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04810\\04810.mp4",
+            "frame_positions": [
+                2000,
+                4625
+            ]
+        }
+    },
+    "Red Fort": {
+        "google_v2_images": {
+            "landmark_id": "105496",
+            "image_files": [
+                "0\\b\\5\\0b54ebd50df4a280.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04908\\04908.mp4",
+            "frame_positions": [
+                3875,
+                4625,
+                3125,
+                1625,
+                2750
+            ]
+        }
+    },
+    "Al Khazneh": {
+        "google_v2_images": {
+            "landmark_id": "18388",
+            "image_files": [
+                "0\\5\\5\\0551952e321cfb03.jpg",
+                "1\\7\\9\\179998d1b83fb777.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04921\\04921.mp4",
+            "frame_positions": [
+                45250,
+                34250,
+                28750,
+                23250,
+                17750
+            ]
+        }
+    },
+    "Aqueduct of Segovia": {
+        "google_v2_images": {
+            "landmark_id": "145474",
+            "image_files": [
+                "1\\9\\b\\19b74fc2af4ccfa1.jpg",
+                "0\\9\\b\\09b4cc21c537fe24.jpg",
+                "1\\0\\1\\1016bba4966318f2.jpg",
+                "0\\c\\3\\0c3676a5a2d61069.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04980\\04980.mp4",
+            "frame_positions": [
+                1250,
+                9250,
+                2250,
+                6250,
+                3250,
+                11250,
+                4250
+            ]
+        }
+    },
+    "Muiderslot": {
+        "google_v2_images": {
+            "landmark_id": "102917",
+            "image_files": [
+                "0\\5\\5\\055ccbd6e016426a.jpg",
+                "0\\7\\d\\07d42d530b0c6f3a.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\04986\\04986.mp4",
+            "frame_positions": [
+                1250,
+                5000,
+                3500,
+                2000,
+                3125,
+                1625,
+                4250,
+                2750
+            ]
+        }
+    },
+    "Abbey of Mont Saint-Michel": {
+        "google_v2_images": {
+            "landmark_id": "35910",
+            "image_files": [
+                "0\\7\\4\\07440e69caca8f6d.jpg",
+                "0\\5\\3\\0534256f5dcb7aa6.jpg",
+                "0\\b\\9\\0b9180c7677810b1.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\05000\\05000.mp4",
+            "frame_positions": [
+                6625,
+                1250,
+                49625,
+                28125,
+                22750
+            ]
+        }
+    },
+    "St. Sophia Church (Ohrid)": {
+        "google_v2_images": {
+            "landmark_id": "38109",
+            "image_files": [
+                "1\\0\\9\\109cd2e29e8899ac.jpg",
+                "1\\3\\1\\1319bc3ca1050dee.jpg"
+            ]
+        }
+    },
+    "Sydney Opera House": {
+        "google_v2_images": {
+            "landmark_id": "55350",
+            "image_files": [
+                "1\\6\\7\\167d3189ceb3b9ee.jpg",
+                "0\\b\\9\\0b96a88df6d1d0f7.jpg",
+                "0\\3\\a\\03aaf32b9787c8a1.jpg",
+                "0\\9\\9\\099b6d4d516beb27.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\05031\\05031.mp4",
+            "frame_positions": [
+                2750
+            ]
+        }
+    },
+    "Castell de la Santa Bàrbara": {
+        "google_v2_images": {
+            "landmark_id": "65433",
+            "image_files": [
+                "1\\7\\e\\17eca8740d789abb.jpg",
+                "0\\4\\0\\04055d66c76863a4.jpg",
+                "0\\b\\1\\0b1c43bc4acc09a8.jpg",
+                "1\\5\\b\\15bfa75b49dbdd49.jpg",
+                "1\\4\\0\\140c0b64a657922d.jpg",
+                "0\\3\\8\\03810812fbb8ff80.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\05071\\05071.mp4",
+            "frame_positions": [
+                8750,
+                2000,
+                4250
+            ]
+        }
+    },
+    "Theatro da Paz": {
+        "google_v2_images": {
+            "landmark_id": "15720",
+            "image_files": [
+                "1\\6\\3\\1633d85228929ebd.jpg"
+            ]
+        }
+    },
+    "Rievaulx Abbey": {
+        "google_v2_images": {
+            "landmark_id": "173350",
+            "image_files": [
+                "0\\f\\b\\0fb903fe6467ff1b.jpg",
+                "0\\3\\1\\031670eaf4152f0c.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\05193\\05193.mp4",
+            "frame_positions": [
+                7500
+            ]
+        }
+    },
+    "Plaza Mayor Salamanca": {
+        "google_v2_images": {
+            "landmark_id": "122228",
+            "image_files": [
+                "3\\1\\031e91683f04af73.jpg",
+                "0\\7\\8\\07870c001c7dfa64.jpg",
+                "1\\3\\0\\13095cdabdc1bda5.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\05199\\05199.mp4",
+            "frame_positions": [
+                51875,
+                23750,
+                18125,
+                12500,
+                57500,
+                29375
+            ]
+        }
+    },
+    "Saghmosavank": {
+        "google_v2_images": {
+            "landmark_id": "33577",
+            "image_files": [
+                "0\\6\\e\\06e4581cc6d6b310.jpg",
+                "1\\1\\3\\11399c6d6037b759.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\05205\\05205.mp4",
+            "frame_positions": [
+                1250,
+                3750,
+                5000,
+                6250,
+                7500,
+                8750,
+                1875,
+                6875,
+                8125
+            ]
+        }
+    },
+    "Spiš Castle": {
+        "google_v2_images": {
+            "landmark_id": "133734",
+            "image_files": [
+                "0\\2\\4\\024dc301c40a6a1c.jpg",
+                "0\\d\\b\\0db8134ccfe2d7f2.jpg",
+                "1\\9\\a\\19a9a1314d07f30c.jpg",
+                "1\\7\\e\\17ec88a34d2c6b7d.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\05209\\05209.mp4",
+            "frame_positions": [
+                3750,
+                2250,
+                4750,
+                5750
+            ]
+        }
+    },
+    "Castles of Lastours": {
+        "google_v2_images": {
+            "landmark_id": "15138",
+            "image_files": [
+                "1\\2\\f\\12f6eec62868e80e.jpg",
+                "0\\3\\4\\034a603b1d9dd417.jpg",
+                "0\\3\\0\\03022b77d7c0bfec.jpg",
+                "0\\5\\2\\0529f7c4f01445d9.jpg",
+                "0\\e\\5\\0e5a16e06110c6ca.jpg",
+                "1\\3\\6\\136848f039c11bba.jpg",
+                "1\\9\\3\\193089509745e825.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\05258\\05258.mp4",
+            "frame_positions": [
+                41250,
+                26250,
+                36250,
+                11250,
+                31250,
+                51250,
+                16250
+            ]
+        }
+    },
+    "Hohenzollern Castle": {
+        "google_v2_images": {
+            "landmark_id": "52897",
+            "image_files": [
+                "0\\5\\8\\058077fc521ab155.jpg"
+            ]
+        },
+        "V3C1_images": {
+            "video_file": "V3C1\\videos\\05269\\05269.mp4",
+            "frame_positions": [
+                20000,
+                23750,
+                5000,
+                18125,
+                8750,
+                3125,
+                16250
+            ]
+        }
+    }
+}
