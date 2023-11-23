@@ -31,7 +31,6 @@ Example for the landmark "Pont du Gard":
             "image_files": [
                 "0\\0\\0\\00019b859b575233.jpg",
                 "0\\0\\a\\00a5552acdff3c1b.jpg",
-				....
             ]
         },
         "V3C1_images": {
@@ -39,11 +38,9 @@ Example for the landmark "Pont du Gard":
             "frame_positions": [
                 1250,
                 1875,
-				...
             ]
         }
     },
-	....
 }
 ```
 
@@ -52,12 +49,10 @@ Example for the landmark "Pont du Gard":
 ```json
 {
     "Pont du Gard": [
-        {
-            "image_url": "https://i.pinimg.com/originals/18/1a/f8/181af8a72831026b18091e244b89fdfa.jpg",
-            "filtered": false
-        },
-		....
-	]
-	...
+	{
+	    "image_url": "https://i.pinimg.com/originals/18/1a/f8/181af8a72831026b18091e244b89fdfa.jpg",
+	    "filtered": false
+	},
+    ]
 }
 ```
