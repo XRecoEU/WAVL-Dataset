@@ -56,3 +56,9 @@ Example for the landmark "Pont du Gard":
     ]
 }
 ```
+
+
+## Acknowledgement
+This work has received funding from the European Union’s Horizon Europe Research and Innovation Programme under grant agreement No 101070250 [XReco](https://xreco.eu/)
+
+<img src="XR-logo_DEF_RGB_300px.png" />
